@@ -9,4 +9,4 @@ func main() {
 // go build = gera um arquivo executavel
 // linux = ./nome-do-executavel
 
-// go install = intala o pacote
+// go install = instala o pacote
